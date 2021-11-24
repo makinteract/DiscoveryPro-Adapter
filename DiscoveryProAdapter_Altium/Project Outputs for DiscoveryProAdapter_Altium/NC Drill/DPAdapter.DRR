@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DPAdapter.PcbDoc   11/24/2021  11:35:16 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : DPAdapter-RoundHoles.TXT
+ASCII SlotHoles File : DPAdapter-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             5         PTH        1.02inch (25.88mm)
+T2      39mil (1mm)                                               Slot              18        PTH        16.69inch (423.88mm)
+T3      43mil (1.1mm)                                             Round             66        PTH        10.17inch (258.26mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              89
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,190 @@
+*************************************************************
+FileName = DPAdapter.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Overlay
+      File : DPAdapter.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Cutout
+
+
+Used DCodes :
+    D10
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : DPAdapter.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Cutout
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : DPAdapter.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Cutout
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : DPAdapter.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Cutout
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : DPAdapter.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Cutout
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : DPAdapter.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Cutout
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : DPAdapter.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Cutout
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Int2 (GND)
+      File : DPAdapter.GP2
+
+    Adding Layer      : Int2 (GND)
+
+    Adding Layer      : Cutout
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Int1 (GND)
+      File : DPAdapter.GP1
+
+    Adding Layer      : Int1 (GND)
+
+    Adding Layer      : Cutout
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : DPAdapter.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Cutout
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
