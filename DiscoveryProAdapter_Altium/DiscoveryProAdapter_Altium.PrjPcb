@@ -35,6 +35,12 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
+CrossRefSheetStyle=1
+CrossRefLocationStyle=1
+CrossRefPorts=3
+CrossRefCrossSheets=1
+CrossRefSheetEntries=0
+CrossRefFollowFromMainSettings=1
 
 [Preferences]
 PrefsVaultGUID=
@@ -160,7 +166,83 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for DiscoveryProAdapter_Altium\BOM\Bill of Materials-DiscoveryProAdapter_Altium.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for DiscoveryProAdapter_Altium\Design Rule Check - DPAdapter.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for DiscoveryProAdapter_Altium\NC Drill\DPAdapter-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for DiscoveryProAdapter_Altium\NC Drill\DPAdapter-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for DiscoveryProAdapter_Altium\NC Drill\DPAdapter.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for DiscoveryProAdapter_Altium\Gerber\DPAdapter.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for DiscoveryProAdapter_Altium\Gerber\DPAdapter.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for DiscoveryProAdapter_Altium\Gerber\DPAdapter.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for DiscoveryProAdapter_Altium\Gerber\DPAdapter.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for DiscoveryProAdapter_Altium\Gerber\DPAdapter.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for DiscoveryProAdapter_Altium\Gerber\DPAdapter.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for DiscoveryProAdapter_Altium\Gerber\DPAdapter.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for DiscoveryProAdapter_Altium\Gerber\DPAdapter.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for DiscoveryProAdapter_Altium\Gerber\DPAdapter.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for DiscoveryProAdapter_Altium\Gerber\DPAdapter.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for DiscoveryProAdapter_Altium\Gerber\DPAdapter.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for DiscoveryProAdapter_Altium\Gerber\DPAdapter.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for DiscoveryProAdapter_Altium\NC Drill\DPAdapter.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for DiscoveryProAdapter_Altium\Gerber\DPAdapter.REP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for DiscoveryProAdapter_Altium\Gerber\DPAdapter.RUL
 DItemRevisionGUID=
 
 [Configuration1]
