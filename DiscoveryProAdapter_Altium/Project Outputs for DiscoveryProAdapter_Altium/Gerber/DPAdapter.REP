@@ -2,6 +2,19 @@
 FileName = DPAdapter.GBR
 AutoAperture = True
 *************************************************************
+Generating : Cutout
+      File : DPAdapter.GM3
+
+    Adding Layer      : Cutout
+
+    Adding Layer      : Cutout
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
 Generating : Bottom Overlay
       File : DPAdapter.GBO
 

@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: DPAdapter.GBR   12/6/2021  1:10:23 PM
+Gerber File Extension Report For: DPAdapter.GBR   12/6/2021  1:28:12 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -16,4 +16,5 @@ Layer Extension     Layer Description
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
+.GM3                Cutout                                  
 ------------------------------------------------------------------------------------------
